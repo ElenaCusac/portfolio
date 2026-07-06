@@ -555,3 +555,47 @@ section h2::after {
     box-shadow:
         0 10px 25px rgba(139, 92, 246, .4);
 }
+
+.experience-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 20px;
+}
+
+.experience-tags span {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 8px 16px;
+
+    border-radius: 30px;
+
+    background: rgba(108, 99, 255, 0.12);
+    border: 1px solid rgba(108, 99, 255, 0.35);
+
+    color: #6C63FF;
+
+    font-size: 0.9rem;
+    font-weight: 600;
+
+    transition: all .25s ease;
+}
+
+.experience-tags span i {
+    font-size: 1rem;
+}
+
+.experience-tags span:hover {
+    background: #6C63FF;
+    color: white;
+    transform: translateY(-3px);
+    box-shadow: 0 8px 18px rgba(108, 99, 255, .25);
+}
+
+.tech-icon {
+  width: 18px;
+  height: 23px;
+  vertical-align: middle;
+}
