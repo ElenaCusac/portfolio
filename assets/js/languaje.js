@@ -53,16 +53,30 @@ const translations = {
         projectButton: "Ver proyecto",
 
         experienceTitle: "Experiencia",
-        experienceDescription: `
-            <b>MultiSafepay</b><br><br>
+        experienceDescription1: `
+            <strong>MultiSafepay</strong><br>
+            Mayo 2026<br><br>
+            Durante mi período de prácticas en el primer año de DAW en MultiSafepay participé en un entorno
+            profesional de QA, colaborando con herramientas y metodologías utilizadas en proyectos reales.
+            Esta experiencia me permitió comprender mejor el ciclo de vida del software, el trabajo en
+            equipo y la importancia de desarrollar soluciones mantenibles y orientadas a negocio.<br><br>
 
-            Durante mi período de prácticas en el primer año del ciclo de Desarrollo de Aplicaciones Web participé en un entorno profesional 
-            de QA en MultiSafepay, colaborando con herramientas y metodologías utilizadas en proyectos reales. Esta experiencia me permitió 
-            comprender mejor el ciclo de vida del software, el trabajo en equipo y la importancia de desarrollar soluciones mantenibles y 
-            orientadas a negocio.<br><br>
+            Además de reforzar mis conocimientos técnicos, pude mejorar competencias como la resolución de
+            problemas, la comunicación dentro de equipos de desarrollo y la adaptación a nuevos entornos
+            tecnológicos.<br><br>`,
 
-            Además de reforzar mis conocimientos técnicos, pude mejorar competencias como la resolución de problemas, la comunicación dentro 
-            de equipos de desarrollo y la adaptación a nuevos entornos tecnológicos.`,
+        experienceDescription2: `
+            <strong>Braahmam International</strong><br>
+            Julio 2026 - Agosto 2026<br><br>
+            Tras finalizar el primer curso del Grado Superior en DAW, fui seleccionada para realizar una
+            movilidad Erasmus+ en Irlanda, donde me incorporé a Braahmam International. Actualmente
+            participo como Project Manager y desarrolladora en uno de los proyectos de la empresa, 
+            coordinando tareas y colaborando en el desarrollo de una plataforma basada en inteligencia 
+            artificial y automatización.<br><br>
+ 
+            Durante esta experiencia trabajo con tecnologías como Python, FastAPI, React, TypeScript,
+            PostgreSQL, Docker y OpenAI API, desarrollando APIs REST, implementando nuevas funcionalidades 
+            y colaborando en un equipo internacional utilizando metodologías ágiles.<br><br>`,
 
         contactTitle: "Contacto",
         contactDescription: `
@@ -76,7 +90,7 @@ const translations = {
 
             <strong>Email</strong>: ecusacortigosa@gmail.com <br>
             <strong>LinkedIn</strong>: <a class="contact-linkedin" href="https://www.linkedin.com/in/elena-cusac-ortigosa/">Elena Cusac Ortigosa</a><br>
-            <strong>GitHub</strong>: <a class="contact-github" href="https://github.com/ElenaCusac">Elena Cusac Ortigosa</a>`,
+            <strong>GitHub</strong>: <a class="contact-github" href="https://github.com/ElenaCusac">ElenaCusac</a>`,
 
         jobTitle: "Junior Java & Web Developer",
 
@@ -140,9 +154,9 @@ const translations = {
             `,
 
         experienceTitle: "Experience",
-        experienceDescription: `
-            <b>MultiSafepay</b><br><br>
-
+        experienceDescription1: `
+            <strong>MultiSafepay</strong><br>
+            May 2026<br><br>
             During my internship period in the first year of the Web Application Development programme, I worked within a professional QA environment 
             at MultiSafepay, collaborating with tools and methodologies used in real-world projects. This experience allowed me to gain a deeper 
             understanding of the software development lifecycle, teamwork, and the importance of building maintainable, business-oriented solutions.<br><br>
@@ -150,6 +164,19 @@ const translations = {
             In addition to strengthening my technical knowledge, I improved skills such as problem-solving, communication within development teams, 
             and adaptation to new technological environments.
             `,
+
+        experienceDescription2: 
+            `<strong>Braahmam International</strong><br>
+            July 2026 - August 2026<br><br>
+            After completing the first year of my Higher Degree (Vocational Training) in Web Application 
+            Development (DAW), I was selected for an Erasmus+ mobility program in Ireland, where I joined 
+            Braahmam International. I am currently participating as a Project Manager and developer in one 
+            of the company's projects, coordinating tasks and collaborating on the development of a platform 
+            based on artificial intelligence and automation. <br><br>
+
+            During this experience, I work with technologies such as Python, FastAPI, React, TypeScript, 
+            PostgreSQL, Docker, and the OpenAI API, developing REST APIs, implementing new features, and 
+            collaborating within an international team using agile methodologies.<br><br>`,
 
         contactTitle: "Contact",
         contactDescription: `
@@ -161,7 +188,7 @@ const translations = {
 
             <strong>Email</strong>: ecusacortigosa@gmail.com <br>
             <strong>LinkedIn</strong>: <a class="contact-linkedin" href="https://www.linkedin.com/in/elena-cusac-ortigosa/">Elena Cusac Ortigosa</a><br>
-            <strong>GitHub</strong>: <a class="contact-github" href="https://github.com/ElenaCusac">Elena Cusac Ortigosa</a>`,
+            <strong>GitHub</strong>: <a class="contact-github" href="https://github.com/ElenaCusac">ElenaCusac</a>`,
 
         jobTitle: "Junior Java & Web Developer",
 
